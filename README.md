@@ -49,3 +49,7 @@ This project generates Cosmos accounts, builds, and signs transactions using Cos
     pnpm start signTx "<your-mnemonic>" <recipientAddress>
     ```
 
+5. **Test**
+    ```bash
+    pnpm test
+    ```
