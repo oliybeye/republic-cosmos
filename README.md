@@ -26,7 +26,7 @@ This project generates Cosmos accounts, builds, and signs transactions using Cos
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/cosmos-wallet-cli.git
+   git clone https://github.com/oliybeye/republic-cosmos.git
    cd republic-cosmos/
    ```
 
